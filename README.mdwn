@@ -45,7 +45,7 @@ Gitweb interface is available at
 # Installation
 
 1. $ `git clone git://scm.solitudo.net/tj-awesome-themes.git`
-1. $ cp -a tj-awesome-themes/{Glossy,Darklooks} ~/.config/awesome/themes
+1. $ `cp -a tj-awesome-themes/{Glossy,Darklooks} ~/.config/awesome/themes`
 
 # Copyright and licensing
 
