@@ -1,0 +1,55 @@
+# Themes for Awesome
+
+This distribution contains a few themes [Awesome](http://awesome.naquadah.org)
+window manager. These themes provide support for
+[Delightful](http://solitudo.net/software/awesome/delightful/) widgets by
+defining theme color and icon names Delightful widgets try to use.
+
+The following themes are included.
+
+## Glossy
+
+Clean, light theme that is designed to be used with Glossy GTK+ theme.
+
+## Darklooks
+
+Dark theme that is designed to be used with Darklooks GTK+ theme.
+
+# Dependencies
+
+These themes use [Droid Sans Mono](http://en.wikipedia.org/wiki/Droid_%28font%29)
+font. On Debian/Ubuntu systems, you can install the package `ttf-droid` to have
+the font installed.
+
+If you want to use the matching GTK+ themes, you need GNOME 2.3x themes package
+installed. On Debian/Ubuntu systems, you can install the package
+`gnome-themes` to have these themes available.
+
+If using Delightful widgets, please refer to the Delightful
+[README](http://solitudo.net/software/awesome/delightful/README/) for
+the dependencies of Delightful. In order to support all the icons
+Delightful uses, you need the following installed.
+
+* GNOME 2.3x icons package. Debian/Ubuntu package: `gnome-icon-theme`
+* For CPU and Memory widgets only: GNOME Sensors Applet. Debian/Ubuntu package: `sensors-applet`
+* For Weather widget only: GWeather. Debian/Ubuntu package: `libgweather-common`
+
+# Downloading
+
+Home page for these themes is at
+<http://solitudo.net/software/awesome/themes/> and the themes can be downloaded
+by cloning the public Git repository at `git://scm.solitudo.net/tj-awesome-themes.git`.
+Gitweb interface is available at
+<http://scm.solitudo.net/gitweb/public/tj-awesome-themes.git>.
+
+# Installation
+
+1. $ `git clone git://scm.solitudo.net/tj-awesome-themes.git`
+1. $ cp -a tj-awesome-themes/{Glossy,Darklooks} ~/.config/awesome/themes
+
+# Copyright and licensing
+
+Copyright: © 2010 Tuomas Jormola <tj@solitudo.net> <http://solitudo.net>
+
+Licensed under the terms of the [GNU General Public License Version 2.0](http://www.gnu.org/licenses/gpl-2.0.html).
+License terms are included in the file `COPYING`.
