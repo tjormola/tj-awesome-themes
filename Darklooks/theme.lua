@@ -117,10 +117,10 @@ theme.delightful_battery_low                    = '/usr/share/icons/gnome/16x16/
 theme.delightful_imap_mail_read                 = '/usr/share/icons/gnome/32x32/status/stock_mail-open.png'
 theme.delightful_imap_mail_unread               = '/usr/share/icons/gnome/32x32/status/stock_mail-unread.png'
 
--- Net widget
-theme.delightful_net_dialup                     = '/usr/share/icons/gnome/16x16/devices/modem.png'
-theme.delightful_net_wired                      = '/usr/share/icons/gnome/16x16/devices/network-wired.png'
-theme.delightful_net_wireless                   = '/usr/share/icons/gnome/16x16/devices/network-wireless.png'
+-- Network widget
+theme.delightful_network_dialup                 = '/usr/share/icons/gnome/16x16/devices/modem.png'
+theme.delightful_network_wired                  = '/usr/share/icons/gnome/16x16/devices/network-wired.png'
+theme.delightful_network_wireless               = '/usr/share/icons/gnome/16x16/devices/network-wireless.png'
 
 -- Volume widget
 theme.delightful_vol                            = '/usr/share/icons/gnome/16x16/status/audio-volume-high.png'
