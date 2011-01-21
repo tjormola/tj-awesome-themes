@@ -5,15 +5,22 @@ window manager. These themes provide support for
 [Delightful](http://solitudo.net/software/awesome/delightful/) widgets by
 defining theme color and icon names Delightful widgets try to use.
 
+Home page for these themes is at
+<http://solitudo.net/software/awesome/themes/>. Themes are also listed at the
+[Bautiful themes](https://awesome.naquadah.org/wiki/Beautiful_themes) page in
+[Awesome wiki](https://awesome.naquadah.org/wiki/).
+
 The following themes are included.
 
 ## Glossy
 
 Clean, light theme that is designed to be used with Glossy GTK+ theme.
+Screenshot available at <https://awesome.naquadah.org/wiki/Glossy_theme>.
 
 ## Darklooks
 
 Dark theme that is designed to be used with Darklooks GTK+ theme.
+Screenshot available at <https://awesome.naquadah.org/wiki/Darklooks_theme>.
 
 # Dependencies
 
@@ -36,11 +43,9 @@ Delightful uses, you need the following installed.
 
 # Downloading
 
-Home page for these themes is at
-<http://solitudo.net/software/awesome/themes/> and the themes can be downloaded
-by cloning the public Git repository at `git://scm.solitudo.net/tj-awesome-themes.git`.
-Gitweb interface is available at
-<http://scm.solitudo.net/gitweb/public/tj-awesome-themes.git>.
+Themes can be downloaded by cloning the public Git repository at
+`git://scm.solitudo.net/tj-awesome-themes.git`. Gitweb interface is available
+at <http://scm.solitudo.net/gitweb/public/tj-awesome-themes.git>.
 
 # Installation
 
