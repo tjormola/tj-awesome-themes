@@ -55,7 +55,7 @@ Darklooks
 
                             Copyright and licensing
 
-   Copyright: © 2010 Tuomas Jormola [11]tj@solitudo.net
+   Copyright: © 2011 Tuomas Jormola [11]tj@solitudo.net
    [12]http://solitudo.net
 
    Licensed under the terms of the [13]GNU General Public License Version
