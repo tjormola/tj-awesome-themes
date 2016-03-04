@@ -1,6 +1,6 @@
-                               Themes for Awesome
+                             Themes for Awesome 3.5
 
-   This distribution contains a few themes [1]Awesome window manager.
+   This distribution contains a few themes [1]Awesome 3.5 window manager.
    These themes provide support for [2]Delightful widgets by defining
    theme color and icon names Delightful widgets try to use.
 
@@ -25,20 +25,17 @@ Darklooks
                                   Dependencies
 
    These themes use [8]Droid Sans Mono font. On Debian/Ubuntu systems, you
-   can install the package ttf-droid to have the font installed.
-
-   If you want to use the matching GTK+ themes, you need GNOME 2.3x themes
-   package installed. On Debian/Ubuntu systems, you can install the
-   package gnome-themes to have these themes available.
+   can install the package fonts-droid to have the font installed.
 
    If using Delightful widgets, please refer to the Delightful [9]README
    for the dependencies of Delightful. In order to support all the icons
    Delightful uses, you need the following installed.
-     * GNOME 2.3x icons package. Debian/Ubuntu package: gnome-icon-theme
+     * GNOME icons package. Debian/Ubuntu packages: gnome-icon-theme
+       gnome-icon-theme-full adwaita-icon-theme-full
      * For CPU and Memory widgets only: GNOME Sensors Applet.
        Debian/Ubuntu package: sensors-applet
-     * For Weather widget only: GWeather. Debian/Ubuntu package:
-       libgweather-common
+     * For Weather widget only: MateWeather. Debian/Ubuntu package:
+       libmateweather-common
 
                                   Downloading
 
@@ -55,7 +52,7 @@ Darklooks
 
                             Copyright and licensing
 
-   Copyright: © 2011 Tuomas Jormola [11]tj@solitudo.net
+   Copyright: © 2011-2016 Tuomas Jormola [11]tj@solitudo.net
    [12]http://solitudo.net
 
    Licensed under the terms of the [13]GNU General Public License Version
@@ -70,7 +67,7 @@ References
    5. https://awesome.naquadah.org/wiki/
    6. https://awesome.naquadah.org/wiki/Glossy_theme
    7. https://awesome.naquadah.org/wiki/Darklooks_theme
-   8. http://en.wikipedia.org/wiki/Droid_%28font%29
+   8. http://en.wikipedia.org/wiki/Droid_(font)
    9. http://solitudo.net/software/awesome/delightful/README/
   10. http://scm.solitudo.net/gitweb/public/tj-awesome-themes.git
   11. mailto:tj@solitudo.net
