@@ -16,9 +16,9 @@ local freedesktop = { utils = require('freedesktop.utils') }
 local theme = {}
 
 -- Icon theme and font
-freedesktop.utils.icon_theme                    = 'gnome'
-theme.font                                      = 'Droid Sans Mono 8'
-theme.monospace_font                            = 'monospace'
+freedesktop.utils.icon_theme                    = 'Adawaita'
+theme.font                                      = 'Source Code Pro 10'
+theme.monospace_font                            = theme.font
 
 -- Colors
 theme.bg_focus                                  = '#5598d7'
