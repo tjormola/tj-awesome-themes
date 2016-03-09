@@ -124,7 +124,7 @@ theme.delightful_network_wired                  = '/usr/share/icons/gnome/16x16/
 theme.delightful_network_wireless               = '/usr/share/icons/gnome/16x16/devices/network-wireless.png'
 
 -- Volume widget
-theme.delightful_vol                            = '/usr/share/icons/gnome/16x16/status/audio-volume-high.png'
+theme.delightful_vol                            = '/usr/shape/icons/gnome/16x16/status/multimedia-volume-control.png'
 theme.delightful_vol_max                        = '/usr/share/icons/gnome/16x16/status/audio-volume-high.png'
 theme.delightful_vol_med                        = '/usr/share/icons/gnome/16x16/status/audio-volume-medium.png'
 theme.delightful_vol_min                        = '/usr/share/icons/gnome/16x16/status/audio-volume-low.png'
