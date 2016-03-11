@@ -18,6 +18,7 @@ local theme = {}
 
 -- Icon theme and font
 freedesktop.utils.icon_theme                    = 'Adawaita'
+theme.icon_theme                                = freedesktop.utils.icon_theme
 theme.font                                      = 'Source Code Pro 10'
 theme.monospace_font                            = theme.font
 
@@ -26,6 +27,7 @@ theme.bg_focus                                  = '#7aa3cc'
 theme.bg_normal                                 = '#555753'
 theme.bg_urgent                                 = '#7f55d7'
 theme.bg_minimize                               = '#3f403d'
+theme.bg_systray                                = theme.bg_normal
 
 theme.fg_normal                                 = '#e6e6e6'
 theme.fg_focus                                  = '#ffffff'
@@ -63,6 +65,8 @@ theme.layout_tilebottom                         = '/usr/share/awesome/themes/def
 theme.layout_tileleft                           = '/usr/share/awesome/themes/default/layouts/tileleft.png'
 theme.layout_tile                               = '/usr/share/awesome/themes/default/layouts/tile.png'
 theme.layout_tiletop                            = '/usr/share/awesome/themes/default/layouts/tiletop.png'
+theme.layout_spiral                             = '/usr/share/awesome/themes/default/layouts/spiral.png'
+theme.layout_dwindle                            = '/usr/share/awesome/themes/default/layouts/dwindle.png'
 
 theme.taglist_squares_sel                       = '/usr/share/awesome/themes/default/taglist/squarefw.png'
 theme.taglist_squares_unsel                     = '/usr/share/awesome/themes/default/taglist/squarew.png'
