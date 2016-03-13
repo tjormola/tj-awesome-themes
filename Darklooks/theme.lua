@@ -52,7 +52,7 @@ theme.taglist_squares                           = 'true'
 theme.titlebar_close_button                     = 'true'
 theme.border_width                              = '1'
 theme.menu_height                               = '16'
-theme.menu_width                                = '100'
+theme.menu_width                                = '250'
 
 -- Use default images for layout, tasklist, taglist and menu submenus
 theme.layout_fairh                              = '/usr/share/awesome/themes/default/layouts/fairh.png'
