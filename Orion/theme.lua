@@ -18,7 +18,7 @@ local theme = {}
 -- Icon theme and font
 freedesktop.utils.icon_theme                    = 'Adawaita'
 theme.icon_theme                                = freedesktop.utils.icon_theme
-theme.font                                      = 'Source Code Pro 10'
+theme.font                                      = 'Inconsolata Medium 12'
 theme.monospace_font                            = theme.font
 
 -- Colors
