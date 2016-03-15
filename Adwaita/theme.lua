@@ -28,8 +28,8 @@ theme.bg_minimize                               = '#313739'
 theme.bg_systray                                = theme.bg_normal
 
 theme.fg_normal                                 = '#2e3436'
-theme.fg_focus                                  = theme.fg_normal
-theme.fg_urgent                                 = theme.fg_normal
+theme.fg_focus                                  = '#ffffff'
+theme.fg_urgent                                 = theme.fg_focus
 theme.fg_minimize                               = '#f4f4f2'
 
 theme.border_normal                             = '#000000'
@@ -42,7 +42,7 @@ theme.fg_center_widget                          = '#0066e5'
 theme.fg_end_widget                             = '#0017ed'
 
 theme.tooltip_bg_color                          = '#343434'
-theme.tooltip_fg_color                          = '#ffffff'
+theme.tooltip_fg_color                          = theme.fg_focus
 
 -- Misc. settings
 theme.wallpaper_cmd                             = { 'xsetroot -solid \\#40659f' }
