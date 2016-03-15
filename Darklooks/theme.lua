@@ -31,14 +31,14 @@ theme.bg_systray                                = theme.bg_normal
 
 theme.fg_normal                                 = '#e6e6e6'
 theme.fg_focus                                  = '#ffffff'
-theme.fg_urgent                                 = '#ffffff'
-theme.fg_minimize                               = '#7aa3cc'
+theme.fg_urgent                                 = theme.fg_focus
+theme.fg_minimize                               = theme.bg_focus
 
-theme.border_normal                             = '#e6e6e6'
-theme.border_focus                              = '#7aa3cc'
-theme.border_marked                             = '#7f55d7'
+theme.border_normal                             = theme.fg_normal
+theme.border_focus                              = theme.bg_focus
+theme.border_marked                             = theme.bg_urgent
 
-theme.bg_widget                                 = '#555753'
+theme.bg_widget                                 = theme.bg_normal
 theme.fg_widget                                 = '#aaaaaa'
 theme.fg_center_widget                          = '#555555'
 theme.fg_end_widget                             = '#000000'

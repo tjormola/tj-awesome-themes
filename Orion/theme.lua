@@ -30,20 +30,20 @@ theme.bg_systray                                = theme.bg_normal
 
 theme.fg_normal                                 = '#000000'
 theme.fg_focus                                  = '#ffffff'
-theme.fg_urgent                                 = '#ffffff'
-theme.fg_minimize                               = '#000000'
+theme.fg_urgent                                 = theme.fg_focus
+theme.fg_minimize                               = theme.fg_normal
 
-theme.border_normal                             = '#000000'
-theme.border_focus                              = '#579ce4'
-theme.border_marked                             = '#7f55d7'
+theme.border_normal                             = theme.fg_normal
+theme.border_focus                              = theme.bg_focus
+theme.border_marked                             = theme.bg_urgent
 
-theme.bg_widget                                 = '#eeeeee'
+theme.bg_widget                                 = theme.bg_normal
 theme.fg_widget                                 = '#00a2fe'
 theme.fg_center_widget                          = '#0066e5'
 theme.fg_end_widget                             = '#0017ed'
 
 theme.tooltip_bg_color                          = '#ffffbf'
-theme.tooltip_fg_color                          = '#000000'
+theme.tooltip_fg_color                          = theme.fg_normal
 
 -- Misc. settings
 theme.wallpaper_cmd                             = { 'xsetroot -solid \\#40659f' }
