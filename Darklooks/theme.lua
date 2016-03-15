@@ -76,31 +76,31 @@ theme.tasklist_floating_icon                    = '/usr/share/awesome/themes/def
 theme.menu_submenu_icon                         = '/usr/share/awesome/themes/default/submenu.png'
 
 -- Awesome icon
-theme.awesome_icon                              = awful.util.getdir('config') .. '/themes/Darklooks/awesome-icon.png'
+theme.awesome_icon                              = '/usr/share/awesome/icons/awesome16.png'
 
 -- Titlebar images
-theme.titlebar_close_button_normal              = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/close_normal.png'
-theme.titlebar_close_button_focus               = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/close_focus.png'
+theme.titlebar_close_button_normal              = '/usr/share/awesome/themes/default/titlebar/close_normal.png'
+theme.titlebar_close_button_focus               = '/usr/share/awesome/themes/default/titlebar/close_focus.png'
 
-theme.titlebar_ontop_button_normal_inactive     = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/ontop_normal_inactive.png'
-theme.titlebar_ontop_button_focus_inactive      = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/ontop_focus_inactive.png'
-theme.titlebar_ontop_button_normal_active       = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/ontop_normal_active.png'
-theme.titlebar_ontop_button_focus_active        = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/ontop_focus_active.png'
+theme.titlebar_ontop_button_normal_inactive     = '/usr/share/awesome/themes/default/titlebar/ontop_normal_inactive.png'
+theme.titlebar_ontop_button_focus_inactive      = '/usr/share/awesome/themes/default/titlebar/ontop_focus_inactive.png'
+theme.titlebar_ontop_button_normal_active       = '/usr/share/awesome/themes/default/titlebar/ontop_normal_active.png'
+theme.titlebar_ontop_button_focus_active        = '/usr/share/awesome/themes/default/titlebar/ontop_focus_active.png'
 
-theme.titlebar_sticky_button_normal_inactive    = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/sticky_normal_inactive.png'
-theme.titlebar_sticky_button_focus_inactive     = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/sticky_focus_inactive.png'
-theme.titlebar_sticky_button_normal_active      = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/sticky_normal_active.png'
-theme.titlebar_sticky_button_focus_active       = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/sticky_focus_active.png'
+theme.titlebar_sticky_button_normal_inactive    = '/usr/share/awesome/themes/default/titlebar/sticky_normal_inactive.png'
+theme.titlebar_sticky_button_focus_inactive     = '/usr/share/awesome/themes/default/titlebar/sticky_focus_inactive.png'
+theme.titlebar_sticky_button_normal_active      = '/usr/share/awesome/themes/default/titlebar/sticky_normal_active.png'
+theme.titlebar_sticky_button_focus_active       = '/usr/share/awesome/themes/default/titlebar/sticky_focus_active.png'
 
-theme.titlebar_floating_button_normal_inactive  = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/floating_normal_inactive.png'
-theme.titlebar_floating_button_focus_inactive   = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/floating_focus_inactive.png'
-theme.titlebar_floating_button_normal_active    = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/floating_normal_active.png'
-theme.titlebar_floating_button_focus_active     = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/floating_focus_active.png'
+theme.titlebar_floating_button_normal_inactive  = '/usr/share/awesome/themes/default/titlebar/floating_normal_inactive.png'
+theme.titlebar_floating_button_focus_inactive   = '/usr/share/awesome/themes/default/titlebar/floating_focus_inactive.png'
+theme.titlebar_floating_button_normal_active    = '/usr/share/awesome/themes/default/titlebar/floating_normal_active.png'
+theme.titlebar_floating_button_focus_active     = '/usr/share/awesome/themes/default/titlebar/floating_focus_active.png'
 
-theme.titlebar_maximized_button_normal_inactive = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/maximized_normal_inactive.png'
-theme.titlebar_maximized_button_focus_inactive  = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/maximized_focus_inactive.png'
-theme.titlebar_maximized_button_normal_active   = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/maximized_normal_active.png'
-theme.titlebar_maximized_button_focus_active    = awful.util.getdir('config') .. '/themes/Darklooks/titlebar/maximized_focus_active.png'
+theme.titlebar_maximized_button_normal_inactive = '/usr/share/awesome/themes/default/titlebar/maximized_normal_inactive.png'
+theme.titlebar_maximized_button_focus_inactive  = '/usr/share/awesome/themes/default/titlebar/maximized_focus_inactive.png'
+theme.titlebar_maximized_button_normal_active   = '/usr/share/awesome/themes/default/titlebar/maximized_normal_active.png'
+theme.titlebar_maximized_button_focus_active    = '/usr/share/awesome/themes/default/titlebar/maximized_focus_active.png'
 
 -- Delightful Widget icons
 -- Generic icons
