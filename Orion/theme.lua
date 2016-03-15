@@ -7,8 +7,8 @@
 -- http://www.webupd8.org
 -- freedesktop.org module for Awesome is required for the icon support.
 --
--- Theme also uses Droid Sans Mono font. On Ubuntu system this font
--- is available in the package ttf-droid.
+-- Theme also uses Inconsolata font. On Ubuntu system this font
+-- is available in the package fonts-inconsolata.
 
 local awful = require('awful')
 local freedesktop = { utils = require('freedesktop.utils') }
