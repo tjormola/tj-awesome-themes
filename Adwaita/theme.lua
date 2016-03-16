@@ -101,40 +101,6 @@ theme.titlebar_maximized_button_normal_active   = '/usr/share/awesome/themes/def
 theme.titlebar_maximized_button_focus_active    = '/usr/share/awesome/themes/default/titlebar/maximized_focus_active.png'
 
 -- Delightful Widget icons
--- Generic icons
-theme.delightful_error                          = '/usr/share/icons/Adwaita/16x16/status/dialog-error.png'
-theme.delightful_not_found                      = '/usr/share/icons/gnome/16x16/status/dialog-question.png'
-
--- CPU widget
-theme.delightful_cpu                            = '/usr/share/icons/hicolor/22x22/devices/sensors-applet-cpu.png'
-
--- Memory widget
-theme.delightful_memory                         = '/usr/share/icons/hicolor/22x22/devices/sensors-applet-memory.png'
-
--- Battery widget
-theme.delightful_battery_ac                     = '/usr/share/icons/gnome/16x16/actions/help-about.png'
-theme.delightful_battery_full                   = '/usr/share/icons/gnome/16x16/devices/battery.png'
-theme.delightful_battery_medium                 = '/usr/share/icons/gnome/16x16/status/battery-low.png'
-theme.delightful_battery_low                    = '/usr/share/icons/gnome/16x16/status/battery-caution.png'
-
--- IMAP widget
-theme.delightful_imap_mail_read                 = '/usr/share/icons/gnome/32x32/status/stock_mail-open.png'
-theme.delightful_imap_mail_unread               = '/usr/share/icons/gnome/32x32/status/stock_mail-unread.png'
-
--- Network widget
-theme.delightful_network_dialup                 = '/usr/share/icons/gnome/16x16/devices/modem.png'
-theme.delightful_network_wired                  = '/usr/share/icons/gnome/16x16/devices/network-wired.png'
-theme.delightful_network_wireless               = '/usr/share/icons/gnome/16x16/devices/network-wireless.png'
-
--- Volume widget
-theme.delightful_vol                            = '/usr/shape/icons/gnome/16x16/status/multimedia-volume-control.png'
-theme.delightful_vol_max                        = '/usr/share/icons/gnome/16x16/status/audio-volume-high.png'
-theme.delightful_vol_med                        = '/usr/share/icons/gnome/16x16/status/audio-volume-medium.png'
-theme.delightful_vol_min                        = '/usr/share/icons/gnome/16x16/status/audio-volume-low.png'
-theme.delightful_vol_zero                       = '/usr/share/icons/gnome/16x16/status/audio-volume-low.png'
-theme.delightful_vol_mute                       = '/usr/share/icons/gnome/16x16/status/audio-volume-muted.png'
-
--- Weather widget
 theme.delightful_weather_clear                  = '/usr/share/icons/gnome/16x16/status/weather-clear.png'
 theme.delightful_weather_clear_night            = '/usr/share/icons/gnome/16x16/status/weather-clear-night.png'
 theme.delightful_weather_clear_night_000        = '/usr/share/icons/mate/16x16/status/weather-clear-night-000.png'
