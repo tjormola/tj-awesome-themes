@@ -17,7 +17,7 @@ local freedesktop = { utils = require('freedesktop.utils') }
 local theme = {}
 
 -- Icon theme and font
-freedesktop.utils.icon_theme                    = 'Adawaita'
+freedesktop.utils.icon_theme                    = 'Adwaita'
 theme.icon_theme                                = freedesktop.utils.icon_theme
 theme.font                                      = 'Inconsolata Medium 12'
 theme.monospace_font                            = theme.font
