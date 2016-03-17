@@ -30,7 +30,7 @@ theme.bg_systray                                = theme.bg_normal
 
 theme.fg_normal                                 = '#dfdfdf'
 theme.fg_focus                                  = theme.fg_normal
-theme.fg_urgent                                 = theme.fg_normal
+theme.fg_urgent                                 = theme.fg_focus
 theme.fg_minimize                               = '#000000'
 
 theme.border_normal                             = '#000000'
